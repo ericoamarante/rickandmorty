@@ -1,7 +1,7 @@
 # Rick and Morty Script
 
-### Pré-requisitos
-Para funcionar perfeitamente precisa ter instalado em sua máquina a versao 3.9.1 do [Python](https://www.python.org/downloads/release/python-391/).
+### requirements
+To work perfectly you need to have python version 3.9.1 installed on your machine[Python](https://www.python.org/downloads/release/python-391/).
 
 ## Installation
 
